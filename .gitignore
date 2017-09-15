@@ -1,0 +1,20 @@
+#ignore some extensions
+
+ClientBin/
+bin/
+obj/
+TestResults/
+Results/
+Test Utilities/
+Temp/
+
+*.suo
+*.user
+*.exe
+*.dll
+*.pdb
+*.GhostDoc.xml
+
+#nuget packages
+/packages
+*.DS_Store
